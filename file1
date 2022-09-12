@@ -3,5 +3,5 @@ Java 8
 spring
 Spring boot
 hibernate
-JPA
+Spring data JPA
 aws
